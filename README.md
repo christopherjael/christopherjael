@@ -24,7 +24,7 @@ Hi, I'm Christopher Montero, I'm a web developer and I like to experiment and le
 <br/>
 
 ---
-### Tech & Tools Preference
+### Tech & Tools Preference 🛠️
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -48,8 +48,9 @@ Hi, I'm Christopher Montero, I'm a web developer and I like to experiment and le
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/php-6C7CB9.svg?style=flat&logo=php&logoColor=white">
 
 ---
-### My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherjael)](https://github.com/anuraghazra/github-readme-stats)
+### My stats 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherjael&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherjael&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/Reakine_net
